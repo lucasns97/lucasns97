@@ -25,6 +25,11 @@
 
 </p>
 
+<hr>
+
+### </> Minha atuação no GIT!
+<p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasns97&theme=dracula&hide_langs_below=1&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" />
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=lucasns97&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+</p>
