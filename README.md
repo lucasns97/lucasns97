@@ -1,10 +1,6 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=Lucas N. Sequeira&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasns97&theme=dracula&hide_langs_below=1&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" />
-
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=lucasns97&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
-
 ### 💁 Quem sou eu?
 
 <p>
@@ -29,6 +25,6 @@
 
 </p>
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasns97&theme=dracula&hide_langs_below=1&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" />
 
-
-<hr>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=lucasns97&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
