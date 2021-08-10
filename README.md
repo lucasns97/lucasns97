@@ -6,6 +6,8 @@
 <p>
 
 🎓 Formado pela [**USP**](https://www5.usp.br/) em [**Ciências Moleculares**](http://www.cecm.usp.br/)<br/>
+  
+🎓 Mestrando pelo [**IME-USP**](https://www.ime.usp.br/) em [**Ciência da Computação**](https://www.ime.usp.br/dcc/)<br/>
 
 💼 Pesquisador Júnior em Aprendizado de Máquina no [**CPQD**](https://www.cpqd.com.br/)<br/>
 
