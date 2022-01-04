@@ -9,7 +9,7 @@
   
 🎓 Mestrando pelo [**IME-USP**](https://www.ime.usp.br/) em [**Ciência da Computação**](https://www.ime.usp.br/dcc/)<br/>
 
-💼 Pesquisador Júnior em Aprendizado de Máquina no [**CPQD**](https://www.cpqd.com.br/)<br/>
+💼 Data Analytics/AI/ML Solution Architect na [**dataRain**](https://www.datarain.com.br/)<br/>
 
 💼 Pesquisador no [**GAIA**](https://sites.usp.br/gaia/)<br/>
 
