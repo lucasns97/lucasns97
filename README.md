@@ -19,7 +19,7 @@
 
 <p>
 
-👔 [Linkedin](https://www.linkedin.com/in/lucas-nunes-719375165/)<br/>
+👔 [Linkedin](https://www.linkedin.com/in/lucasnseq/)<br/>
 
 📚 [Lattes](http://lattes.cnpq.br/8818674058920114)
 
