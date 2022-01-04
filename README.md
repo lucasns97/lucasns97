@@ -11,8 +11,6 @@
 
 💼 Data Analytics/AI/ML Solution Architect na [**dataRain**](https://www.datarain.com.br/)<br/>
 
-💼 Pesquisador no [**GAIA**](https://sites.usp.br/gaia/)<br/>
-
 </p>
 
 <hr>
