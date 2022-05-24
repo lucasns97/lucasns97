@@ -51,10 +51,8 @@
 
 <style>
 td, th {
-   border: none !important;
-}
-a {
-    float: right !important;
+    border: none !important;
+    text-align: right !important 
 }
 </style>
 
