@@ -24,25 +24,25 @@
 
 ## 🌈 a-Z Projects - [Repos 📂](https://github.com/lucasns97?tab=repositories)
 
-[🟥 **BCG Gamma Hackaton** - Python Notebooks](https://github.com/lucasns97/hackaton_bcggamma)<br/>
+[⬛ **BCG Gamma Hackaton** - Python Notebooks](https://github.com/lucasns97/hackaton_bcggamma)<br/>
 
-[🟧 **Cardapio's** - Vue.js Webpage Project](https://github.com/lucasns97/cardapio-s) ⭐<br/>
+[🟦 **Cardapio's** - Vue.js Webpage Project](https://github.com/lucasns97/cardapio-s) ⭐<br/>
 
-[🟨 **C Projects** - C Libraries](https://github.com/lucasns97/c_projects)<br/>
+[🟪 **C Projects** - C Libraries](https://github.com/lucasns97/c_projects)<br/>
 
-[🟩 **Data Analysis** - Python Notebooks](https://github.com/lucasns97/data_analysis)<br/>
+[🟫 **Data Analysis** - Python Notebooks](https://github.com/lucasns97/data_analysis)<br/>
 
-[⬛ **Drawing With Code** - Py / P5.js Creations](https://github.com/lucasns97/draws)<br/>
+[🟥 **Drawing With Code** - Py / P5.js Creations](https://github.com/lucasns97/draws)<br/>
 
-[🟦 **Machine Learning** - Python Notebooks](https://github.com/lucasns97/ml_notebooks) ⭐<br/>
+[🟧 **Machine Learning** - Python Notebooks](https://github.com/lucasns97/ml_notebooks) ⭐<br/>
 
-[🟪 **Science Presentations** - Slide Presentations](https://github.com/lucasns97/presentations)<br/>
+[🟨 **Science Presentations** - Slide Presentations](https://github.com/lucasns97/presentations)<br/>
 
-[🟫 **HackerRank** - Python Studies](https://github.com/lucasns97/hackerrank)<br/>
+[🟩 **HackerRank** - Python Studies](https://github.com/lucasns97/hackerrank)<br/>
 
-[🟥 **Hash Game** - Minimax Algorithm](https://github.com/lucasns97/ex_jogo_da_velha)<br/>
+[⬛ **Hash Game** - Minimax Algorithm](https://github.com/lucasns97/ex_jogo_da_velha)<br/>
 
-[🟧 **Word Similarity** - Python Project](https://github.com/lucasns97/word_ps) ⭐<br/>
+[🟦 **Word Similarity** - Python Project](https://github.com/lucasns97/word_ps) ⭐<br/>
 
 ---
 
