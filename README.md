@@ -24,23 +24,23 @@
 
 ## 🌈 Projects - [Repos 📂](https://github.com/lucasns97?tab=repositories)
 
-[⬛ **Word Similarity** - Python Project](https://github.com/lucasns97/word_ps)<br/>
+[⬛ **BCG Gamma Hackaton** - Python Notebooks](https://github.com/lucasns97/hackaton_bcggamma)<br/>
 
-[🟦 **Hash Game** - Minimax Algorithm](https://github.com/lucasns97/ex_jogo_da_velha)<br/>
+[🟦 **Cardapio's** - Vue.js Webpage Project](https://github.com/lucasns97/cardapio-s)<br/>
 
-[🟪 **Cardapio's** - Vue.js Webpage Project](https://github.com/lucasns97/cardapio-s)<br/>
+[🟪 **C Projects** - C Libraries](https://github.com/lucasns97/c_projects)<br/>
 
-[🟫 **Machine Learning** - Python Notebooks](https://github.com/lucasns97/ml_notebooks)<br/>
+[🟫 **Data Analysis** - Python Notebooks](https://github.com/lucasns97/data_analysis)<br/>
 
-[🟥 **Data Analysis** - Python Notebooks](https://github.com/lucasns97/data_analysis)<br/>
+[🟥 **Drawing With Code** - Py / P5.js Creations](https://github.com/lucasns97/draws)<br/>
 
-[🟧 **BCG Gamma Hackaton** - Python Notebooks](https://github.com/lucasns97/hackaton_bcggamma)<br/>
+[🟧 **Machine Learning** - Python Notebooks](https://github.com/lucasns97/ml_notebooks)<br/>
 
 [🟨 **HackerRank** - Python Studies](https://github.com/lucasns97/hackerrank)<br/>
 
-[🟩 **C Projects** - C Libraries](https://github.com/lucasns97/c_projects)<br/>
+[🟩 **Hash Game** - Minimax Algorithm](https://github.com/lucasns97/ex_jogo_da_velha)<br/>
 
-[⬛ **Drawing With Code** - Py / P5.js Creations](https://github.com/lucasns97/draws)<br/>
+[⬛ **Word Similarity** - Python Project](https://github.com/lucasns97/word_ps)<br/>
 
 
 ---
