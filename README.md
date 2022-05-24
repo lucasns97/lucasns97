@@ -24,30 +24,28 @@
 
 ## 🌈 Projects
 
-⬛ [**Word Similarity** - Python Project](https://github.com/lucasns97/word_ps)<br/>
+[⬛ **Word Similarity** - Python Project](https://github.com/lucasns97/word_ps)<br/>
 
-🟦 [**Hash Game** - Minimax Algorithm](https://github.com/lucasns97/ex_jogo_da_velha)<br/>
+[🟦 **Hash Game** - Minimax Algorithm](https://github.com/lucasns97/ex_jogo_da_velha)<br/>
 
-🟪 [**Cardapio's** - Vue.js Webpage Project](https://github.com/lucasns97/cardapio-s)<br/>
+[🟪 **Cardapio's** - Vue.js Webpage Project](https://github.com/lucasns97/cardapio-s)<br/>
 
-🟫 [**Machine Learning** - Python Notebooks](https://github.com/lucasns97/ml_notebooks)<br/>
+[🟫 **Machine Learning** - Python Notebooks](https://github.com/lucasns97/ml_notebooks)<br/>
 
-🟥 [**Data Analysis** - Python Notebooks](https://github.com/lucasns97/data_analysis)<br/>
+[🟥 **Data Analysis** - Python Notebooks](https://github.com/lucasns97/data_analysis)<br/>
 
-🟧 [**BCG Gamma Hackaton** - Python Notebooks](https://github.com/lucasns97/hackaton_bcggamma)<br/>
+[🟧 **BCG Gamma Hackaton** - Python Notebooks](https://github.com/lucasns97/hackaton_bcggamma)<br/>
 
-🟨 [**HackerRank** - Python Studies](https://github.com/lucasns97/hackerrank)<br/>
+[🟨 **HackerRank** - Python Studies](https://github.com/lucasns97/hackerrank)<br/>
 
-🟩 [**C Projects** - C Libraries](https://github.com/lucasns97/c_projects)<br/>
+[🟩 **C Projects** - C Libraries](https://github.com/lucasns97/c_projects)<br/>
 
-⬛ [**Drawing With Code** - Py / P5.js Creations](https://github.com/lucasns97/draws)<br/>
+[⬛ **Drawing With Code** - Py / P5.js Creations](https://github.com/lucasns97/draws)<br/>
 
 
 ---
 
 ## ✖️ My GIT participation!
-
-<a align='center' href="https://github.com/lucasns97?tab=repositories"><img src="https://img.shields.io/static/v1?label=Repositories&message=lucasnseq&color=f8efd4&style=for-the-badge&logo=GitHub"></a>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasns97&theme=dracula&hide_langs_below=1&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" />
 
