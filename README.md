@@ -24,12 +24,19 @@
 ### 🌈 Projects
 
 ⬛ [**Word Similarity** - Python Project](https://github.com/lucasns97/word_ps)<br/>
+
 🟦 [**Hash Game** - Minimax Algorithm](https://github.com/lucasns97/ex_jogo_da_velha)<br/>
+
 🟪 [**Cardapio's** - Dynamic Webpage Project](https://github.com/lucasns97/cardapio-s)<br/>
+
 🟫 [**Machine Learning** - Notebooks](https://github.com/lucasns97/ml_notebooks)<br/>
+
 🟥 [**Data Analysis** - Notebooks](https://github.com/lucasns97/data_analysis)<br/>
+
 🟧 [**BCG Gamma Hackaton** - Notebooks](https://github.com/lucasns97/hackaton_bcggamma)<br/>
+
 🟨 [**HackerRank** - Python Studies](https://github.com/lucasns97/hackerrank)<br/>
+
 🟩 [**C Projects** - C Libraries](https://github.com/lucasns97/c_projects)<br/>
 
 ---
