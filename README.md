@@ -13,7 +13,8 @@
 
 ---
 
-## 🥽 Where to find me?
+## 🥽 Where to find me? <a href="https://github.com/lucasns97?tab=repositories"><img src="https://img.shields.io/static/v1?label=Repositories&message=lucasnseq&color=f8efd4&style=for-the-badge&logo=GitHub"></a>
+
 
 👔 [Linkedin](https://www.linkedin.com/in/lucasnseq/)<br/>
 
