@@ -31,6 +31,13 @@
 
 <p>
 
+<style>
+td, th {
+    border: none !important;
+    text-align: right !important 
+}
+</style>
+
 | ⬛ [**Word Similarity** - Python Project](https://github.com/lucasns97/word_ps) | 🟥 [**Data Analysis** - Notebooks](https://github.com/lucasns97/data_analysis)<br/> |
 | ------------ | ------------- |
 | 🟦 [**Hash Game** - Minimax Algorithm](https://github.com/lucasns97/ex_jogo_da_velha) | 🟧 [**BCG Gamma Hackaton** - Notebooks](https://github.com/lucasns97/hackaton_bcggamma) |
@@ -49,11 +56,6 @@
 </p>
 
 
-<style>
-td, th {
-    border: none !important;
-    text-align: right !important 
-}
-</style>
+
 
 
