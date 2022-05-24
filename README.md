@@ -44,9 +44,6 @@
 
 [🟦 **Word Similarity** - Python Project](https://github.com/lucasns97/word_ps)<br/>
 
-https://github.com/lucasns97/presentations
-
-
 ---
 
 ## ✖️ My GIT participation =)
