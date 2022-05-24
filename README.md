@@ -36,11 +36,15 @@
 
 [🟧 **Machine Learning** - Python Notebooks](https://github.com/lucasns97/ml_notebooks)<br/>
 
-[🟨 **HackerRank** - Python Studies](https://github.com/lucasns97/hackerrank)<br/>
+[🟨 **Science Presentations** - Graduation Presentations](https://github.com/lucasns97/presentations)<br/>
 
-[🟩 **Hash Game** - Minimax Algorithm](https://github.com/lucasns97/ex_jogo_da_velha)<br/>
+[🟩 **HackerRank** - Python Studies](https://github.com/lucasns97/hackerrank)<br/>
 
-[⬛ **Word Similarity** - Python Project](https://github.com/lucasns97/word_ps)<br/>
+[⬛ **Hash Game** - Minimax Algorithm](https://github.com/lucasns97/ex_jogo_da_velha)<br/>
+
+[🟦 **Word Similarity** - Python Project](https://github.com/lucasns97/word_ps)<br/>
+
+https://github.com/lucasns97/presentations
 
 
 ---
