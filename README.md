@@ -29,11 +29,11 @@
 
 🟪 [**Cardapio's** - Dynamic Webpage Project](https://github.com/lucasns97/cardapio-s)<br/>
 
-🟫 [**Machine Learning** - Notebooks](https://github.com/lucasns97/ml_notebooks)<br/>
+🟫 [**Machine Learning** - Python Notebooks](https://github.com/lucasns97/ml_notebooks)<br/>
 
-🟥 [**Data Analysis** - Notebooks](https://github.com/lucasns97/data_analysis)<br/>
+🟥 [**Data Analysis** - Python Notebooks](https://github.com/lucasns97/data_analysis)<br/>
 
-🟧 [**BCG Gamma Hackaton** - Notebooks](https://github.com/lucasns97/hackaton_bcggamma)<br/>
+🟧 [**BCG Gamma Hackaton** - Python Notebooks](https://github.com/lucasns97/hackaton_bcggamma)<br/>
 
 🟨 [**HackerRank** - Python Studies](https://github.com/lucasns97/hackerrank)<br/>
 
