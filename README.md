@@ -34,7 +34,7 @@
 
 [🟥 **Drawing With Code** - Py / P5.js Creations](https://github.com/lucasns97/draws)<br/>
 
-[🟧 **Machine Learning** - Python Notebooks](https://github.com/lucasns97/ml_notebooks)<br/>
+[🟧 **Machine Learning** - Python Notebooks](https://github.com/lucasns97/ml_notebooks) ⭐<br/>
 
 [🟨 **Science Presentations** - Slide Presentations](https://github.com/lucasns97/presentations)<br/>
 
@@ -42,7 +42,7 @@
 
 [⬛ **Hash Game** - Minimax Algorithm](https://github.com/lucasns97/ex_jogo_da_velha)<br/>
 
-[🟦 **Word Similarity** - Python Project](https://github.com/lucasns97/word_ps)<br/>
+[🟦 **Word Similarity** - Python Project](https://github.com/lucasns97/word_ps) ⭐<br/>
 
 ---
 
