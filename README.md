@@ -16,9 +16,9 @@
 ## 🥽 Where to find me?
 
 
-👔 [Linkedin](https://www.linkedin.com/in/lucasnseq/)<br/>
+[👔 Linkedin](https://www.linkedin.com/in/lucasnseq/)<br/>
 
-📚 [Lattes](http://lattes.cnpq.br/8818674058920114)<br/>
+[📚 Lattes](http://lattes.cnpq.br/8818674058920114)<br/>
 
 ---
 
