@@ -26,7 +26,7 @@
 
 [⬛ **BCG Gamma Hackaton** - Python Notebooks](https://github.com/lucasns97/hackaton_bcggamma)<br/>
 
-[🟦 **Cardapio's** - Vue.js Webpage Project](https://github.com/lucasns97/cardapio-s)<br/>
+[🟦 **Cardapio's** - Vue.js Webpage Project](https://github.com/lucasns97/cardapio-s) ⭐<br/>
 
 [🟪 **C Projects** - C Libraries](https://github.com/lucasns97/c_projects)<br/>
 
@@ -36,7 +36,7 @@
 
 [🟧 **Machine Learning** - Python Notebooks](https://github.com/lucasns97/ml_notebooks) ⭐<br/>
 
-[🟨 **Science Presentations** - Slide Presentations](https://github.com/lucasns97/presentations) ⭐<br/>
+[🟨 **Science Presentations** - Slide Presentations](https://github.com/lucasns97/presentations)<br/>
 
 [🟩 **HackerRank** - Python Studies](https://github.com/lucasns97/hackerrank)<br/>
 
