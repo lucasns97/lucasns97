@@ -1,11 +1,6 @@
 [comment]: <> (CSS)
 
-<style>
-td, th {
-    border: none !important;
-    text-align: left !important 
-}
-</style>
+
 
 [comment]: <> (Page)
 
@@ -59,7 +54,10 @@ td, th {
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=lucasns97&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
 </p>
 
-
-
-
+<style>
+td, th {
+    border: none !important;
+    text-align: left !important 
+}
+</style>
 
