@@ -36,7 +36,7 @@
 
 [🟧 **Machine Learning** - Python Notebooks](https://github.com/lucasns97/ml_notebooks)<br/>
 
-[🟨 **Science Presentations** - Graduation Slide Presentations](https://github.com/lucasns97/presentations)<br/>
+[🟨 **Science Presentations** - Slide Presentations](https://github.com/lucasns97/presentations)<br/>
 
 [🟩 **HackerRank** - Python Studies](https://github.com/lucasns97/hackerrank)<br/>
 
