@@ -22,7 +22,7 @@
 
 ---
 
-## 🌈 Projects - [Repos 📂](https://github.com/lucasns97?tab=repositories)
+## 🌈 a-Z Projects - [Repos 📂](https://github.com/lucasns97?tab=repositories)
 
 [⬛ **BCG Gamma Hackaton** - Python Notebooks](https://github.com/lucasns97/hackaton_bcggamma)<br/>
 
