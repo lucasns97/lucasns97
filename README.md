@@ -27,7 +27,7 @@
 
 🟦 [**Hash Game** - Minimax Algorithm](https://github.com/lucasns97/ex_jogo_da_velha)<br/>
 
-🟪 [**Cardapio's** - Dynamic Webpage Project](https://github.com/lucasns97/cardapio-s)<br/>
+🟪 [**Cardapio's** - Vue.js Webpage Project](https://github.com/lucasns97/cardapio-s)<br/>
 
 🟫 [**Machine Learning** - Python Notebooks](https://github.com/lucasns97/ml_notebooks)<br/>
 
