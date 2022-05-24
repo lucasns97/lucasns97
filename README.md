@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=LucasNSequeira&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 
-### 💁 Who I am?
+## 💁 Who I am?
 
 🎓 Bachelor in [**Molecular Sciences**](http://www.cecm.usp.br/) from the [**University of São Paulo - USP**](https://www5.usp.br/)<br/>
   
@@ -13,7 +13,7 @@
 
 ---
 
-### 🥽 Where to find me?
+## 🥽 Where to find me?
 
 👔 [Linkedin](https://www.linkedin.com/in/lucasnseq/)<br/>
 
@@ -21,7 +21,7 @@
 
 ---
 
-### 🌈 Projects
+## 🌈 Projects
 
 ⬛ [**Word Similarity** - Python Project](https://github.com/lucasns97/word_ps)<br/>
 
@@ -44,7 +44,7 @@
 
 ---
 
-### ✖️ My participation in the GIT!
+## ✖️ My GIT participation!
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasns97&theme=dracula&hide_langs_below=1&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" />
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=lucasns97&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
