@@ -51,7 +51,10 @@
 
 <style>
 td, th {
-   border: none!important;
+   border: none !important;
+}
+a {
+    margin: auto !important;
 }
 </style>
 
