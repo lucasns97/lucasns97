@@ -1,3 +1,14 @@
+[comment]: <> (CSS)
+
+<style>
+td, th {
+    border: none !important;
+    text-align: left !important 
+}
+</style>
+
+[comment]: <> (Page)
+
 <img src="https://img.shields.io/static/v1?label=Overview&message=LucasNSequeira&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 
@@ -30,13 +41,6 @@
 ### 🌈 Projects
 
 <p>
-
-<style>
-td, th {
-    border: none !important;
-    text-align: right !important 
-}
-</style>
 
 | ⬛ [**Word Similarity** - Python Project](https://github.com/lucasns97/word_ps) | 🟥 [**Data Analysis** - Notebooks](https://github.com/lucasns97/data_analysis)<br/> |
 | ------------ | ------------- |
