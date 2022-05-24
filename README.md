@@ -1,7 +1,3 @@
-[comment]: <> (CSS)
-
-
-
 [comment]: <> (Page)
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=LucasNSequeira&color=f8efd4&style=for-the-badge&logo=GitHub">
@@ -27,7 +23,7 @@
 
 👔 [Linkedin](https://www.linkedin.com/in/lucasnseq/)<br/>
 
-📚 [Lattes](http://lattes.cnpq.br/8818674058920114)
+📚 [Lattes](http://lattes.cnpq.br/8818674058920114)<br/>
 
 </p>
 
@@ -37,11 +33,14 @@
 
 <p>
 
-| ⬛ [**Word Similarity** - Python Project](https://github.com/lucasns97/word_ps) | 🟥 [**Data Analysis** - Notebooks](https://github.com/lucasns97/data_analysis)<br/> |
-| ------------ | ------------- |
-| 🟦 [**Hash Game** - Minimax Algorithm](https://github.com/lucasns97/ex_jogo_da_velha) | 🟧 [**BCG Gamma Hackaton** - Notebooks](https://github.com/lucasns97/hackaton_bcggamma) |
-| 🟪 [**Cardapio's** - Dynamic Webpage Project](https://github.com/lucasns97/cardapio-s) | 🟨 [**HackerRank** - Python Studies](https://github.com/lucasns97/hackerrank) |
-| 🟫 [**Machine Learning** - Notebooks](https://github.com/lucasns97/ml_notebooks) | 🟩 [**C Projects** - C Libraries](https://github.com/lucasns97/c_projects) |
+⬛ [**Word Similarity** - Python Project](https://github.com/lucasns97/word_ps)<br/>
+🟦 [**Hash Game** - Minimax Algorithm](https://github.com/lucasns97/ex_jogo_da_velha)<br/>
+🟪 [**Cardapio's** - Dynamic Webpage Project](https://github.com/lucasns97/cardapio-s)<br/>
+🟫 [**Machine Learning** - Notebooks](https://github.com/lucasns97/ml_notebooks)<br/>
+🟥 [**Data Analysis** - Notebooks](https://github.com/lucasns97/data_analysis)<br/>
+🟧 [**BCG Gamma Hackaton** - Notebooks](https://github.com/lucasns97/hackaton_bcggamma)<br/>
+🟨 [**HackerRank** - Python Studies](https://github.com/lucasns97/hackerrank)<br/>
+🟩 [**C Projects** - C Libraries](https://github.com/lucasns97/c_projects)<br/>
 
 </p>
 
@@ -53,11 +52,4 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=lucasns97&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
 </p>
-
-<style>
-td, th {
-    border: none !important;
-    text-align: left !important 
-}
-</style>
 
