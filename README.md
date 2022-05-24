@@ -1,6 +1,6 @@
 [comment]: <> (Page)
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=LucasNSequeira&color=f8efd4&style=for-the-badge&logo=GitHub">
+<a href="https://github.com/lucasns97?tab=repositories"><img src="https://img.shields.io/static/v1?label=Overview&message=LucasNSequeira&color=f8efd4&style=for-the-badge&logo=GitHub"></a>
 
 
 ## 💁 Who I am?
