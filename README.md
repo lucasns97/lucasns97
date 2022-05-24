@@ -22,7 +22,7 @@
 
 ---
 
-## 🌈 Projects - [Repos](https://github.com/lucasns97?tab=repositories)
+## 🌈 Projects - [Repos 📂](https://github.com/lucasns97?tab=repositories)
 
 [⬛ **Word Similarity** - Python Project](https://github.com/lucasns97/word_ps)<br/>
 
