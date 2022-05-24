@@ -54,7 +54,7 @@ td, th {
    border: none !important;
 }
 a {
-    margin: auto !important;
+    float: right !important;
 }
 </style>
 
