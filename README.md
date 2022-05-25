@@ -26,7 +26,7 @@ class WhoIAm:
 
             Focusing to become a MLOps Cloud Engineer.
 
-            I'm also a developer, scientist and passionate about things in life.
+            I'm developer, scientist and passionate about things in life.
         """
 
     def describe_me(self):
