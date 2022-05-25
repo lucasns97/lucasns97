@@ -22,7 +22,7 @@ class WhoIAm:
             I professionally code in Python and enjoy playing around with other
             languages: JavaScipt, C & C++, Shell Script...
 
-            Regularly using AWS Cloud with APIs, Lambdas, NoSQL S3.
+            Regularly using AWS Cloud with APIs, Lambdas, NoSQL, S3...
 
             Focusing to become a MLOps Cloud Engineer.
 
