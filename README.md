@@ -15,7 +15,19 @@
 class WhoIAm:
 
     def __repr__(self):
-        return "I'm a developer, scientist and passionate about things in life."
+        return """
+            Hi everyone, I'm Data Science & Machine Learning Solutions Architect
+            from São Paulo - Brazil, and currently working at dataRain.
+
+            I professionally code in Python and enjoy playing around with other
+            languages: JavaScipt, C & C++, Shell Script...
+
+            Regularly using AWS Cloud with APIs, Lambdas, NoSQL S3.
+
+            Focusing to become a MLOps Cloud Engineer.
+
+            I'm also a developer, scientist and passionate about things in life.
+        """
 
     def describe_me(self):
         print(self)
@@ -25,9 +37,6 @@ lucasnseq = WhoIAm()
 
 # Describing myself
 lucasnseq.describe_me()
-
-# What I say
->> I'm a developer, scientist and passionate about things in life.
 ```
 
 ---
