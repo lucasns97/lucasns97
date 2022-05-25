@@ -32,15 +32,6 @@ lucasnseq.describe_me()
 
 ---
 
-## 🥽 Where to find me?
-
-
-[👔 Linkedin](https://www.linkedin.com/in/lucasnseq/)<br/>
-
-[📚 Lattes](http://lattes.cnpq.br/8818674058920114)<br/>
-
----
-
 ## 🌈 a-Z Projects - [Repos 📂](https://github.com/lucasns97?tab=repositories)
 
 [⬛ **BCG Gamma Hackaton** - Python Notebooks](https://github.com/lucasns97/hackaton_bcggamma)<br/>
