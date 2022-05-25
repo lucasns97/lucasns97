@@ -15,23 +15,23 @@
 # Designing myself
 class WhoIAm:
 
-    def __repr__(self):
-        return """
-            Hi everyone, I'm a Data Science & Machine Learning Solutions Architect
-            from São Paulo - Brazil, and currently working at dataRain.
+  def __repr__(self):
+    return """
+      Hi everyone, I'm a Data Science & Machine Learning Solutions Architect
+      from São Paulo - Brazil, and currently working at dataRain.
 
-            I professionally code in Python and enjoy playing around with other
-            languages: JavaScipt, C & C++, Shell Script...
+      I professionally code in Python and enjoy playing around with other
+      languages: JavaScipt, C & C++, Shell Script...
 
-            Regularly using AWS Cloud with APIs, Lambdas, NoSQL, S3...
+      Regularly using AWS Cloud with APIs, Lambdas, NoSQL, S3...
 
-            Focusing to become a MLOps Cloud Engineer.
+      Focusing to become a MLOps Cloud Engineer.
 
-            I'm a developer, a scientist and passionate about things in life.
-        """
+      I'm a developer, a scientist and passionate about things in life.
+    """
 
-    def describe_me(self):
-        print(self)
+  def describe_me(self):
+    print(self)
 
 # Creating myself
 lucasnseq = WhoIAm()
