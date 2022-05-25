@@ -26,7 +26,7 @@ lucasnseq = WhoIAm()
 # Describe me
 lucasnseq.describe_me()
 
-# What comes out
+# What I say
 >> Developer, scientist and passionate about things in life.
 ```
 
