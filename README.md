@@ -11,6 +11,25 @@
 
 💼 Data Analytics/AI/ML AWS Solution Architect at [**dataRain**](https://www.datarain.com.br/)<br/>
 
+```py
+class WhoIAm:
+
+    def __repr__(self):
+        return "Developer and passionate about things in life."
+
+    def describe_me(self):
+        return self()
+
+# Get me
+lucasnseq = WhoIAm()
+
+# Describe me
+lucasnseq.describe_me()
+
+# Stdout
+>> Developer and passionate about things in life.
+```
+
 ---
 
 ## 🥽 Where to find me?
