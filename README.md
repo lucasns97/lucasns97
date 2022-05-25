@@ -20,10 +20,10 @@ class WhoIAm:
     def describe_me(self):
         print(self)
 
-# Create me
+# Creating myself
 lucasnseq = WhoIAm()
 
-# Describe me
+# Describing myself
 lucasnseq.describe_me()
 
 # What I say
