@@ -20,13 +20,13 @@ class WhoIAm:
     def describe_me(self):
         print(self)
 
-# Get me
+# Create me
 lucasnseq = WhoIAm()
 
 # Describe me
 lucasnseq.describe_me()
 
-# Stdout
+# What comes out
 >> Developer, scientist and passionate about things in life.
 ```
 
