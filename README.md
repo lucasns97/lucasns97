@@ -15,7 +15,7 @@
 class WhoIAm:
 
     def __repr__(self):
-        return "Developer and passionate about things in life."
+        return "Developer, scientist and passionate about things in life."
 
     def describe_me(self):
         return self
@@ -27,7 +27,7 @@ lucasnseq = WhoIAm()
 lucasnseq.describe_me()
 
 # Stdout
->> Developer and passionate about things in life.
+>> Developer,scientist and passionate about things in life.
 ```
 
 ---
