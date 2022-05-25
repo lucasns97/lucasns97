@@ -12,6 +12,7 @@
 💼 Data Analytics/AI/ML AWS Solution Architect at [**dataRain**](https://www.datarain.com.br/)<br/>
 
 ```py
+# Designing myself
 class WhoIAm:
 
     def __repr__(self):
