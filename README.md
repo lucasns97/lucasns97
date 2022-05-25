@@ -15,6 +15,9 @@
 # Designing myself
 class WhoIAm:
 
+  def describe_me(self):
+    print(self)
+
   def __repr__(self):
     return """
       Hi everyone, I'm a Data Science & Machine Learning Solutions Architect
@@ -29,9 +32,6 @@ class WhoIAm:
 
       I'm a developer, a scientist and passionate about things in life.
     """
-
-  def describe_me(self):
-    print(self)
 
 # Creating myself
 lucasnseq = WhoIAm()
