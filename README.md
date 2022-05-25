@@ -16,7 +16,7 @@ class WhoIAm:
 
     def __repr__(self):
         return """
-            Hi everyone, I'm Data Science & Machine Learning Solutions Architect
+            Hi everyone, I'm a Data Science & Machine Learning Solutions Architect
             from São Paulo - Brazil, and currently working at dataRain.
 
             I professionally code in Python and enjoy playing around with other
