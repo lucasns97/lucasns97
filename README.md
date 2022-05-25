@@ -18,7 +18,7 @@ class WhoIAm:
         return "Developer, scientist and passionate about things in life."
 
     def describe_me(self):
-        return self
+        print(self)
 
 # Get me
 lucasnseq = WhoIAm()
