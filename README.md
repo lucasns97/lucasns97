@@ -2,12 +2,6 @@
 
 <a href="https://github.com/lucasns97#-who-i-am"><img src="https://img.shields.io/static/v1?label=Overview&message=lucasnseq&color=f8efd4&style=for-the-badge&logo=GitHub"></a>
 
-Simple test 1: <a href="">Page 1</a>
-Simple test 1: <a href="">Page 2</a>
-Simple test 2: <a href="https://github.com/lucasns97#-who-i-am">Page 3</a>
-Simple test 2: <a href="https://github.com/lucasns97#-who-i-am">Page 4</a>
-
-
 ## 💁 Who I am?
 
 🎓 Bachelor in [**Molecular Sciences**](http://www.cecm.usp.br/) from the [**University of São Paulo - USP**](https://www5.usp.br/)<br/>
