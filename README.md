@@ -4,11 +4,11 @@
 
 ## 💁 Who I am?
 
-🎓 Bachelor in [**Molecular Sciences**](http://www.cecm.usp.br/) from the [**University of São Paulo - USP**](https://www5.usp.br/)<br/>
-  
-🎓 Master's student at [**IME-USP**](https://www.ime.usp.br/) in [**Computer Science**](https://www.ime.usp.br/dcc/)<br/>
+🎓 **Bachelor in Molecular Sciences** from [**University of São Paulo - USP**](https://www5.usp.br/)<br/>
+🎓 **MBA in Artificial Intelligence & Big Data** from [**ICMC-USP**](https://icmc.usp.br/)<br/>
 
-💼 Data Analytics/AI/ML AWS Solution Architect at [**dataRain**](https://www.datarain.com.br/)<br/>
+💼 **Engineering Manager I** at [**Turing**](https://www.turing.com), specializing in leading global teams and developing scalable AI solutions<br/>
+🏆 Champion of **AWS DeepRacer Summit São Paulo 2022** and awarded in multiple hackathons<br/>
 
 ```py
 # Designing myself
@@ -16,17 +16,21 @@ class WhoIAm:
 
   def __repr__(self):
     return """
-      Hi everyone, I'm a Data Science & Machine Learning Solutions Architect
-      from São Paulo - Brazil, and currently working at dataRain.
+      Hi, I'm Lucas Nunes Sequeira, an Engineering Manager and
+      Python Developer passionate about the intersection of AI, cloud
+      computing, and software engineering.
 
-      I professionally code in Python and enjoy playing around with other
-      languages: JavaScipt, C & C++, Shell Script...
+      With experience ranging from cloud-native application
+      development at AWS to cutting-edge AI research at USP, I've
+      honed skills in Python, Docker, REST APIs, and AWS services.
 
-      Regularly using AWS Cloud with APIs, Lambdas, NoSQL, S3...
+      I am particularly invested in MLOps, striving to automate and
+      optimize AI workflows for scalable and efficient deployments.
+      Additionally, I engage in research focused on synthetic image
+      generation and data bias in AI.
 
-      Focusing to become a MLOps Cloud Engineer.
-
-      I'm a developer, a scientist and passionate about things in life.
+      Beyond work, I contribute to the tech community by leading
+      workshops and writing on data ethics and fairness.
     """
 
   def describe_me(self):
