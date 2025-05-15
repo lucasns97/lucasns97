@@ -65,6 +65,8 @@ lucasnseq.describe_me()
 
 [⬛ **Hash Game** - Minimax Algorithm](https://github.com/lucasns97/ex_jogo_da_velha)<br/>
 
+[🟪 **Semantic Chunking** - Python Tool for Semantic Text Segmentation](https://github.com/lucasns97/semantic_chunking) ⭐<br/>
+
 [🟦 **Word Similarity** - Python Project](https://github.com/lucasns97/word_ps) ⭐<br/>
 
 ---
